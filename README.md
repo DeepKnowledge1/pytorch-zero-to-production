@@ -22,15 +22,14 @@ This repository gives you everything you need to build real-world deep learning 
 
 ## 📂 Documentation
 
-| Section | Link |
-|--------|------|
-| Course Overview | `docs/course_overview.md` |
-| Installation & Environment Setup | `docs/installation.md` |
-| Repository Structure | `docs/repo_structure.md` |
-| Notebook Index | `docs/notebooks.md` |
-| Contributing | `docs/contributing.md` |
 
----
+| Documentation | Description |
+|---------------|-------------|
+| [📖 Course Overview](docs/course_overview.md) | Complete course structure and learning paths |
+| [⚙️ Installation Guide](docs/installation.md) | Setup instructions for all environments |
+| [📁 Repository Structure](docs/repo_structure.md) | Navigate the codebase efficiently |
+| [📓 Notebook Index](docs/notebooks.md) | All Jupyter notebooks organized by module |
+| [🤝 Contributing](docs/contributing.md) | How to contribute to the project |
 
 ## ⭐ Why This Repository Stands Out
 
