@@ -1,11 +1,18 @@
 [project]
 name = "pytorch-zero-to-production"
 version = "0.1.0"
-description = "The PyTorch course that doesn't stop at model training. Go from
+description = """
+The PyTorch course that doesn't stop at model training. Go from
 tensors to deployed REST APIs with debugging mastery, PyTorch 2.0
 optimization, and production best practices. Build portfolio-ready
-projects."
+projects.
+"""
 
 readme = "README.md"
 requires-python = ">=3.11"
-dependencies = []
+dependencies = [
+    "ipykernel>=7.1.0",
+    "matplotlib>=3.10.7",
+    "numpy>=2.3.5",
+    "torch>=2.9.1",
+]
