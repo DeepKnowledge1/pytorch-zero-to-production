@@ -222,7 +222,7 @@ images/
 
 # Notebooks with outputs (keep clean versions)
 *-checkpoint.ipynb
-*.ipynb
+# *.ipynb
 
 # =============================================================================
 # ANOMAVISION SPECIFIC
